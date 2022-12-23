@@ -1,3 +1,15 @@
+Deployed a simple Admission form website for the Yoga Classes form on netlify . I have used React.js as frontend and Node.js as backend to accept
+the details from the user and make a call to a REST api which accepts the user data, does basic validations, Store the data in MongoDB database . I have totally used MERN stack to develop this website .
+website link: https://flex-money-assignment.netlify.app/
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
